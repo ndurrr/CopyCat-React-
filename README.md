@@ -1,4 +1,4 @@
-# CopyCat
+# CopyCat - React project
 
 Codecademy project description:
 
